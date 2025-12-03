@@ -1,4 +1,4 @@
-# HW9 – Multiplayer Games  
+# HW9 - Multiplayer Games  
 Homework 9 for the “Game Development” course.
 
 ## 🎮 Game Description  
@@ -57,5 +57,4 @@ The playable build is available on itch.io:
 
 ---
 
-## 👤 Author  
-Liri (Maya)
+
