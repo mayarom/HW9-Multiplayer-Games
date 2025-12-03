@@ -1,8 +1,6 @@
 # HW9 - Multiplayer Games
 
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funrealengine5.online%2F&psig=AOvVaw0gcgreYaNtyiBrlQD20Kja&ust=1764842397835000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLii0LSUoZEDFQAAAAAdAAAAABAE" alt="HW9 Multiplayer Banner">
-</p>
+
 
 <p align="center">
   <a href="https://mayarom.itch.io/hw9-multiplayer-games">
