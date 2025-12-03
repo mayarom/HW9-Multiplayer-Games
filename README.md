@@ -156,28 +156,23 @@ You can download the release here:
 ## 9. High-Level Folder Structure
 
 Assets/
-Scripts/
-Player/
-PlayerMovement.cs
-PlayerColorController.cs
-PlayerHealth.cs
-PlayerScore.cs
-Networking/
-NetworkRunnerHandler.cs
-ProjectileNetworkLogic.cs
-Gameplay/
-ProjectileController.cs
-GameManager.cs
-
-Prefabs/
-Player.prefab
-Projectile.prefab
-
-Scenes/
-2b-movement.unity <-- Main assignment scene
-
-UI/
-ScoreDisplay.prefab
-HealthDisplay.prefab
-
----
+└── Scripts/
+    ├── Player/
+    │   ├── PlayerMovement.cs
+    │   ├── PlayerColorController.cs
+    │   ├── PlayerHealth.cs
+    │   └── PlayerScore.cs
+    ├── Networking/
+    │   ├── NetworkRunnerHandler.cs
+    │   └── ProjectileNetworkLogic.cs
+    ├── Gameplay/
+    │   ├── ProjectileController.cs
+    │   └── GameManager.cs
+    ├── Prefabs/
+    │   ├── Player.prefab
+    │   └── Projectile.prefab
+    ├── Scenes/
+    │   └── 2b-movement.unity  <-- Main assignment scene
+    └── UI/
+        ├── ScoreDisplay.prefab
+        └── HealthDisplay.prefab
