@@ -173,4 +173,3 @@ Assets/
     └── UI/
         ├── ScoreDisplay.prefab
         └── HealthDisplay.prefab
-        └── HealthDisplay.prefab
