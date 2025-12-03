@@ -152,24 +152,25 @@ You can download the release here:
 - Unity UI
 
 ## 9. High-Level Folder Structure
-Assets/
-└── Scripts/
-    ├── Networking/
-    │   ├── NetworkRunnerHandler.cs
-    │   └── ProjectileNetworkLogic.cs
-    ├── Player/
-    │   ├── PlayerMovement.cs
-    │   ├── PlayerColorController.cs
-    │   ├── PlayerHealth.cs
-    │   └── PlayerScore.cs
-    ├── Gameplay/
-    │   ├── ProjectileController.cs
-    │   └── GameManagers.cs
-    ├── Prefabs/
-    │   ├── Player.prefab
-    │   └── Projectile.prefab
-    ├── Scenes/
-    │   └── 2b-movement.unity  <-- Main assignment scene
-    └── UI/
-        ├── ScoreDisplay.prefab
-        └── HealthDisplay.prefab
+
+- Assets/
+  - Scripts/
+    - Networking/
+      - NetworkRunnerHandler.cs
+      - ProjectileNetworkLogic.cs
+    - Player/
+      - PlayerMovement.cs
+      - PlayerColorController.cs
+      - PlayerHealth.cs
+      - PlayerScore.cs
+    - Gameplay/
+      - ProjectileController.cs
+      - GameManagers.cs
+    - Prefabs/
+      - Player.prefab
+      - Projectile.prefab
+    - Scenes/
+      - 2b-movement.unity  <-- Main assignment scene
+    - UI/
+      - ScoreDisplay.prefab
+      - HealthDisplay.prefab
