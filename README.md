@@ -12,7 +12,7 @@
 
 ## 1. Overview
 
-This project is my submission for **Homework 9 – Multiplayer Games** in the *Game Development* course.
+This project is my submission for **Homework 9 - Multiplayer Games** in the *Game Development* course.
 
 The work is based on the classroom multiplayer prototype:  
 **https://github.com/gamedev-at-ariel/multiplayer-fusion-2.git**
@@ -30,7 +30,7 @@ Implemented systems include:
 - Hit detection  
 - **Custom multiplayer Score System**  
 - **Custom multiplayer Health System**  
-- Full Host–Client synchronization  
+- Full Host-Client synchronization  
 
 ---
 
@@ -52,7 +52,7 @@ Both systems were implemented directly inside **2b-movement.unity**, modifying p
 
 ---
 
-## ⭐ 2.2.1 Score System — *Custom Feature #1*
+## ⭐ 2.2.1 Score System - *Custom Feature #1*
 
 **Purpose:** Award points for successful hits.
 
@@ -71,7 +71,7 @@ Every player sees their own live score, updated instantly across the network.
 
 ---
 
-## ⭐ 2.2.2 Health System — *Custom Feature #2*
+## ⭐ 2.2.2 Health System - *Custom Feature #2*
 
 **Purpose:** Allow damage and player defeat.
 
@@ -91,12 +91,12 @@ Players have synchronized health, and hits have a real gameplay effect.
 
 ### 3.1 Controls
 **Movement**
-- W A S D / Arrow Keys — Move  
-- Left Shift — Speed Boost  
+- W A S D / Arrow Keys - Move  
+- Left Shift - Speed Boost  
 
 **Actions**
-- Space — Shoot  
-- C — Change player color  
+- Space - Shoot  
+- C - Change player color  
 
 ### 3.2 Objective
 Dodge incoming fire, hit the other player, increase your score, and avoid losing all your health.
@@ -106,9 +106,9 @@ Dodge incoming fire, hit the other player, increase your score, and avoid losing
 ## 4. Networking Modes
 
 Supported Photon Fusion modes:
-- **Host** — Runs the simulation and participates  
-- **Client** — Connects to an existing host  
-- **Shared Mode** — Local debugging mode  
+- **Host** - Runs the simulation and participates  
+- **Client** - Connects to an existing host  
+- **Shared Mode** - Local debugging mode  
 
 ---
 
