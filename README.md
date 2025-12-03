@@ -145,29 +145,26 @@ You can download the release here:
 ---
 
 ## 8. Technologies Used
-- Unity 6000 LTS  
-- Photon Fusion  
-- C#  
-- TextMeshPro  
-- Unity UI  
-
----
+- Unity 6000 LTS
+- Photon Fusion
+- C#
+- TextMeshPro
+- Unity UI
 
 ## 9. High-Level Folder Structure
-
 Assets/
 └── Scripts/
+    ├── Networking/
+    │   ├── NetworkRunnerHandler.cs
+    │   └── ProjectileNetworkLogic.cs
     ├── Player/
     │   ├── PlayerMovement.cs
     │   ├── PlayerColorController.cs
     │   ├── PlayerHealth.cs
     │   └── PlayerScore.cs
-    ├── Networking/
-    │   ├── NetworkRunnerHandler.cs
-    │   └── ProjectileNetworkLogic.cs
     ├── Gameplay/
     │   ├── ProjectileController.cs
-    │   └── GameManager.cs
+    │   └── GameManagers.cs
     ├── Prefabs/
     │   ├── Player.prefab
     │   └── Projectile.prefab
@@ -175,4 +172,5 @@ Assets/
     │   └── 2b-movement.unity  <-- Main assignment scene
     └── UI/
         ├── ScoreDisplay.prefab
+        └── HealthDisplay.prefab
         └── HealthDisplay.prefab
