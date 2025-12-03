@@ -129,18 +129,4 @@ Typical high-level structure (exact folders may vary):
     - Score text  
     - Health display
 
----
 
-## Notes
-
-- This project is primarily an academic exercise focused on:
-  - Understanding real-time multiplayer concepts
-  - Working with Photon Fusion inside Unity
-  - Implementing basic game logic that is fully network-aware
-- The systems are intentionally kept simple and readable so they can be extended easily:
-  - New weapons
-  - Different game modes
-  - More advanced health and respawn logic
-  - Visual polish and feedback (VFX, SFX, animations)
-
-For any questions or suggestions, feel free to open an issue or comment on the itch.io page.
